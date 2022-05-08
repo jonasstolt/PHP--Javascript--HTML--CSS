@@ -1,0 +1,8 @@
+id|name_sname|identity|address|region|hours|destination|price;
+--------------------------------------------------------------------
+1|Jonas Stolt|123456789|husi, stanilesti, vaslui|HUSI - IASI|20:00|HUSI|100;
+2|Pelle Jöns|123456789|husi, stanilesti, vaslui|HUSI - IASI|20:00|HUSI|100;
+3|Efraim Barkbit|123456789|husi, stanilesti, vaslui|HUSI - IASI|20:00|HUSI|100;
+4|Svängrot|123456789|husi, stanilesti, vaslui|HUSI - IASI|20:00|HUSI|100;
+5|Åsa-Nisse|123456789|husi, stanilesti, vaslui|HUSI - IASI|20:00|HUSI|100;
+6|Klabbarparn|123456789|husi, stanilesti, vaslui|HUSI - IASI|20:00|HUSI|100;
